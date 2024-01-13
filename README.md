@@ -22,6 +22,4 @@ Usage: "gitbase <base-branch>"
 ## Git cherry-pick
 Git cherry-pick is used to apply a specific commit from one branch to another
 
-Usage: "git cherry-pick <commit-hash>"
-
-....
+Usage: "git cherry-pick <commit-hash>
